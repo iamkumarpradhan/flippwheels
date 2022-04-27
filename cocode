@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+float a,b,sum;
+printf("enter values of a and b");
+scanf("%f%f",&a,&b);
+sum=a+b;
+printf("the sum is :%f",sum);
+getch();
+
+}
